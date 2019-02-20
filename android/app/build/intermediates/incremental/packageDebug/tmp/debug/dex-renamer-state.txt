@@ -1,4 +1,0 @@
-#Thu Dec 13 00:24:13 AST 2018
-base.0=/Users/edman/Documents/GitHub/testreactnative/android/app/build/intermediates/transforms/dexMerger/debug/0
-renamed.0=classes.dex
-path.0=classes.dex
